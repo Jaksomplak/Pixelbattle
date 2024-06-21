@@ -1,0 +1,6 @@
+{
+    "secret": "97bed61a13f243511600ab0b91196613104e669339ab70ff14a631b65843aca8",
+    "tgId": "2",
+    "initData": "query_id=AAHDZtFjAgAAAMNm0WNjCSdE&user=%7B%22id%22%3A5969635011%2C%22first_name%22%3A%22ren%22%2C%22last_name%22%3A%22sup%22%2C%22username%22%3A%22sprjckn%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1718946208&hash=04ceeb9c3f16e625e3d9b491316af2ae8005fd7b12f13772c0b6729e0f169b91",
+    "auto_upgrade": true
+}
